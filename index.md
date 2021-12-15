@@ -1,4 +1,4 @@
-# AWS:REINVENT 2021 LAS VEGAS!!
+# AWS:REINVENT 2021
 
 세션 선택시 가장 우선으로 생각했던 것
 - 나의 AWS 수준에 맞는가?
